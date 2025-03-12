@@ -1,2 +1,2 @@
 # Convertisseur-de-devise-GUI-
-COnvertisseur de devise avec Pyside
+Convertisseur de devise avec Pyside
